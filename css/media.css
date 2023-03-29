@@ -1,0 +1,280 @@
+@media (max-width: 1399px){
+    .nos-row ul li {
+        font-size: 16px;
+    }
+    .banner-row {
+        min-height: 600px;
+    }
+    .nav-item {
+        padding: 0 10px;
+    }
+    .cs-btn-secondary {
+        font-size: 14px;
+        padding: 5px 10px;
+    }
+    .cs-btn-three {
+        font-size: 14px;
+        padding: 5px 10px;
+    }
+    .banner-row h1 {
+        font-size: 40px;
+    }
+    .banner-row h5 {
+        padding: 10px 30px 20px 0;
+    }
+    h5 {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .cs-btn {
+        font-size: 16px;
+        padding: 10px 20px;
+    }
+    .part5-left h2 {
+        margin-top: 53px;  
+    }
+    .testimonials-box {
+        min-height: 415px;
+    }
+    .single-mail {
+        min-height: 154px;
+    }
+    .mail {
+        margin-bottom: -77px;
+        padding-top: 30px;
+    }
+}
+@media (max-width: 1199px) {
+    .nav-item {
+        padding: 0 5px;
+    }
+    .card {
+        min-height: 393px;
+    }
+    h1 {
+        font-size: 30px;
+    }
+    h3 {
+        font-size: 25px;
+    }
+    h2 {
+        font-size: 30px;
+    }
+    .nav-btn {
+        margin-left: 10px;
+    }
+    
+}
+
+@media (max-width: 991px) {
+    .single-mail {
+        min-height: 97px;
+    }
+  .banner-img{
+    max-width: 500px;
+    margin: auto;
+  }
+  .banner-row {
+    text-align: center;
+    padding: 30px 0 60px;
+    }
+    .banner-row h1 {
+        font-size: 40px;
+        margin-top: 30px;
+    }
+    .banner-row h5 {
+        color: var(--cs-white);
+        padding: 10px 0px 30px 0;
+    }
+    .icon-img {
+        max-width: 70px;
+    }
+    .icon-box{
+        margin-top: 20px;
+    }
+    h1 {
+        font-size: 35px;
+    }
+    .card {
+        min-height: 405px;
+        margin-top: 20px;
+    }
+    .realisation-row {
+        margin-bottom: 10px;
+    }
+    .plombier-left {
+        margin-top: 45px;
+    }
+    h4 {
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .contact-right {
+        padding: 50px 0 0px;
+    }
+    .mail {
+        padding-top: 0px;
+        margin-bottom: 40px;
+    }
+    .single-mail {
+        margin-bottom: 20px;
+    }
+    footer {
+        padding: 50px 0 20px;
+    }
+    .footer-row ul li {
+        padding: 0 10px;
+    }
+    .cs-btn-three, .cs-btn-secondary {
+        font-size: 16px;
+        padding: 10px 20px;
+    }
+    .nav-btn{
+        display: flex;
+        justify-content: space-around;
+        margin: 30px 20px 20px;
+    }
+    .nav-item {
+        padding: 0;
+    }
+    .nav-item {
+        margin-top: 15px;
+    }
+}
+/*------------------------------------------------------------------------------- Tablet device ---------------------------------------------------------------------------------------- */
+@media (max-width: 767px) {
+    .nav-btn{
+        justify-content: space-between;
+    }
+    .banner-row {
+        text-align: center;
+        padding: 30px 10px;
+    }
+    .banner-row h1 {
+        font-size: 40px;
+        margin-top: 20px;
+    }
+    h5 {
+        font-size: 16px;
+    }
+    .banner-row h5 {
+        padding: 30px 20px;
+    }
+    .p-60 {
+        padding: 60px 0;
+    }
+    h1 {
+        font-size: 28px;
+    }
+    .nos-row ul {
+        margin: 30px 10px 0;
+    }
+    .card {
+        min-height: 490px;
+        margin-top: 20px;
+    }
+    h3 {
+        font-size: 24px;
+    }
+    .testimonial p{
+        padding: 15px 0px 10px;
+    }
+    h4 {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    p {
+        line-height: 26px;
+    }
+    .contact-right h2 {
+        margin-bottom: 30px;
+    }
+    .single-testimolial {
+        margin-top: 40px;
+    }
+    .logo-group {
+        padding: 30px 0;
+    }
+    .plombier-left{
+        text-align: center;
+    }
+   
+}
+/*------------------------------------------------------------------------------------- mobile device-------------------------------------------------------------------------------------- */
+@media (max-width: 575px) {
+    .banner-row h1 {
+        font-size: 25px;
+        margin-top: 30px;
+    }
+    .banner-row h5 {
+        padding: 15px 0px 30px;
+        line-height: 25px;
+    }
+    .cs-btn {
+        font-size: 16px;
+        padding: 8px 20px;
+    }
+    .icon-img {
+        max-width: 50px;
+    }
+    h1 {
+        font-size: 20px;
+    }
+    .nos-row ul li {
+        font-size: 14px;
+    }
+    h2 {
+        font-size: 25px;
+    }
+    .realisation-row {
+        margin-bottom: 15px;
+    }
+    .card {
+        min-height: 400px;
+    }
+    h3 {
+        font-size: 20px;
+    }
+    p {
+        font-size: 14px;
+    }
+    .plombier-left p {
+        padding: 0px 0 10px;
+    }
+    h4 {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .footer-row ul li {
+        font-size: 14px;
+        padding: 0 5px;
+    }
+    .card-des {
+        margin-top: -40px;
+    }
+    .card-icon {
+        width: 80px;
+        height: 80px;
+    }
+    .p-60 {
+        padding: 30px 0;
+    }
+}  
+@media (max-width: 450px){
+    .footer-row ul li {
+        font-size: 10px;
+        padding: 0 5px;
+    }
+    .cs-btn-three, .cs-btn-secondary {
+        font-size: 14px;
+        padding: 10px 15px;
+    }
+}
+@media (max-width: 360px){
+    h4 {
+        font-size: 15px;
+    }
+    .card {
+        min-height: 380px;
+    }
+}
